@@ -1,0 +1,17 @@
+WiFi Networks. Each device with WiFi support has unique device id that allows to track your device across number of WiFi access points and using hidden monitoring devices that receive, but do not transmit anything
+Bluetooth. Very similar to Wifi but rarely used. If you device has bluetooth enabled it allows to track it and you
+Cars. Car numbers automatically identified by webcams on the roads and by security web cams
+Phone based activity. Certain mobile apps track how do you usage your phone. How you touch it, how you move (using gyroscopes), which application you launch, making screenshots of applications. Also your phone could be used to record video and sound stealthly.
+PC based activity. Latest Microsoft changes in Windows OS (Windows 10) tracks nearly all of your activity: which apps you launch, what you speak, how your PC performs, what you download and so on.
+Face and cloth tracking using webcams. Recent video processing software is quite advanced in face and cloth recognition tasks. It could track you even in a crowd.
+Air and train tickets. If you ever buy air or train you provide information that allows to identify you and government tracks any ticket.
+Credit cards usage. Any your purchase or any other activity with credit/debit card is trackable
+Personal accounts activities. Any you action with money on your personal account in bank is trackable and it's being tracked.
+Email. Government and email providers always have access to your emails.
+Messaging. SMS, Facebook messages and any other messages could be tracked if it's not peer-to-peer encrypted. Be sure that by default it's tracked.
+Internet activity. Your internet provider and government always have list of your latest internet activities like site visiting.
+Phone calls. Phone companies and government have information and sometimes records of your phone calls.
+Water/electricity usage. Utility companies and government could track how you use electricity and water in realtime.
+Health records. Government and healthcare companies have access to your diagnostics and medical records.
+Taxes. Government always knows about your taxes
+And so on.

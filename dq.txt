@@ -1,0 +1,5 @@
+settings page-
+change social distancing radius,
+find person by id,
+show map with intial homes
+
